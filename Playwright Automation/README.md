@@ -61,16 +61,13 @@ Testname: TC5-End-To-End-SignInBeforeCheckout.js
 
 #### Installation
 
+gitRepo - https://github.com/KirtiMhaske/Automation-Assignment.git
+
 Install the dependencies and devDependencies to run the test.
 
-- Clone (OR) Download this repo as zip folder on to your local machine
-- Navigate to project's directory on terminal and run the following commands:
+- Download this repo as zip folder on to your local machine
+- Navigate to 'Automation-Assignment/PlayWright Automation' directory on terminal and run the following commands:
 
-Clone the repository
-
-```bash
-git clone <repo_name>
-```
 
 Install dependencies
 
@@ -123,7 +120,6 @@ Allure-test-report :
 ```
 
 #### GitHub
-
 ```bash
 Repo: https://github.com/KirtiMhaske/Automation-Assignment.git
 
