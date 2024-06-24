@@ -1,0 +1,11 @@
+export const paymentPageHeading = ".page-heading"
+export const continueShopping = "a[title='Previous']"
+export const payByBankWire = "a[title='Pay by bank wire']"
+export const payByCheck = "a[title='Pay by check.']"
+export const productName = "p[class='product-name']"
+export const prodQuantity = "td[class='cart_quantity text-center']"
+export const confirmOrderBtn = "button[class='button btn btn-default button-medium'] span"
+export const paymentMethodMessage = ".page-subheading"
+export const orderSuccessMessage = ".alert.alert-success"
+export const orderHistoryLink = "a[title='Go to your order history page']"
+export const orderNumberBox = '//*[@id="center_column"]/div'

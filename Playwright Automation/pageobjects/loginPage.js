@@ -1,0 +1,8 @@
+export const loginPageLogo = "//img[@alt='My Shop']"
+export const signIn = "a[title='Log in to your customer account']"
+export const RegistrationHeading  = "//h3[normalize-space()='Create an account']"
+export const AlreadyRegistered = "//h3[normalize-space()='Already registered?']"
+export const username = "//input[@id='email']"
+export const password = "//input[@id='passwd']"
+export const forgotPassword = "//a[normalize-space()='Forgot your password?']"
+export const loginButton = "//span[normalize-space()='Sign in']"
